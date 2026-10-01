@@ -12,3 +12,6 @@ This is a free, installable Android-friendly Progressive Web App (PWA).
 - Progress is saved locally on the device/browser.
 - Use **Backup my progress** inside the app occasionally.
 - The tracker is based on the supplied 90-day workbook and starts on September 30, 2026.
+
+
+Updated version includes Android PWA icons for proper installation.
